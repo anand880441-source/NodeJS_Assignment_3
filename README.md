@@ -5,9 +5,9 @@ A robust **Express.js** REST API designed for managing a product inventory. This
 ---
 
 ## 🔗 Project Links
-*   **GitHub Repository:** [https://github.com](https://github.com)
-*   **Live Deployment:** [View on Render](https://your-render-app-link.onrender.com)
-*   **Postman Documentation:** [View API Docs](https://documenter.getpostman.com)
+*   **GitHub Repository:** [https://github.com](https://github.com/anand880441-source/NodeJS_Assignment_3)
+*   **Live Deployment:** [View on Render](https://nodejs-assignment-3.onrender.com)
+*   **Postman Documentation:** [View API Docs](https://documenter.getpostman.com/view/50840839/2sBXcGEfef)
 
 ---
 
