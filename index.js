@@ -117,13 +117,15 @@ app.put("/products/:id", (req, res) => {
   if (index === -1)
     return res.status(404).json({ message: "Product not found..." });
 
+  const { id, name, category, price, stock, rating } = req.body;
+
   products[index] = {
-    id: productId,
-    name: req.body.name,
-    category: req.body.category,
-    price: req.body.price,
-    stock: req.body.stock,
-    rating: req.body.rating,
+    id,
+    name,
+    category,
+    price,
+    stock,
+    rating,
   };
 
   res
